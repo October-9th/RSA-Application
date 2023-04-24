@@ -14,7 +14,7 @@
 
 > A simple project build in java and javaFX to demonstrate how the RSA algorithm work, including generate key pair, signature, sign text with signature to encrypt and decrypt it
 
-### 🏠 [Homepage](https://github.com/kefranabg/readme-md-generator#readme)
+### 🏠 [Homepage](https://github.com/October-9th)
 
 ## Installation
 - This project only need the RSA_Application.jar and the Openfx folder that I have included in the root folder to run, if you need to review my code you can the source code in the RSA Application folder
@@ -29,8 +29,8 @@ java --module-path &#34;PATH_TO\openjfx-20_windows-x64_bin-sdk\javafx-sdk-20\lib
 
 👤 **Arthur Tran**
 
-* Github: [@October\_9th](https://github.com/October\_9th)
-* LinkedIn: [@Viet Tran](https://linkedin.com/in/Viet Tran)
+* Github: [@October\_9th](https://github.com/October-9th)
+* LinkedIn: [@Viet Tran](https://www.linkedin.com/in/viet-tran-179bb9218/)
 
 ## 🤝 Contributing
 
